@@ -1,0 +1,8 @@
+  Hello, world!
+
+This is a sample input text file.  
+
+It contains multiple lines,
+and inconsistent spacing.
+
+Enjoy!
